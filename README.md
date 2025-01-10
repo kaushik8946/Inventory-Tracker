@@ -1,3 +1,8 @@
+## Features
+- Add products with name, type, price, tax, and image.
+- Offline mode support for adding products.
+- Display a list of products with their details.
+
 ## Download APK
 Download the APK from the following link:
 [Download APK](https://drive.google.com/file/d/1hcVz8k9w3DeoJGsKxjtq6RbyquoQ0T2C/view?usp=sharing)
