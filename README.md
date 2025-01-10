@@ -1,4 +1,6 @@
-Here is a detailed documentation on how to build and run the Inventory-Tracker app:
+## Download APK
+Download the APK from the following link:
+[Download APK](https://drive.google.com/file/d/1hcVz8k9w3DeoJGsKxjtq6RbyquoQ0T2C/view?usp=sharing)
 
 ## Building and Running the Inventory-Tracker App
 
